@@ -627,5 +627,6 @@ jekyll_get_json:
 jsonresume:
   - general information
   - education
+  - experience
   - publications
   - languages
