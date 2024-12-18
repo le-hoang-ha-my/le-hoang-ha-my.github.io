@@ -13,17 +13,16 @@ github_username: le-hoang-ha-my # GitHub user name
 # gitlab_username: # your GitLab user name
 # ieee_id: # your ieeexplore.ieee.org/author/id
 # inspirehep_id: 1010907 # Inspire HEP author ID
-# instagram_id: # your instagram id
 # kaggle_id: # your kaggle id
 # keybase_username: # your keybase user name
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
 scholar_userid: g5-j_w8AAAAJ # Google Scholar ID
+orcid_id: 0009-0003-2304-7653 # ORCID ID
 linkedin_username: lehoanghamy # LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
-# orcid_id: # your ORCID ID
 # osf_id: # your OSF ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
@@ -38,7 +37,8 @@ linkedin_username: lehoanghamy # LinkedIn user name
 # unsplash_id: # your unsplash id
 x_username: le_hoang_ha_my # X handle
 facebook_id: theultimatesupremegodoftheomniverse # Facebook ID
-wechat_qr: wechat_qr.jpg
+instagram_id: jumpylumpygrumpypumpkin # Instagram ID
+wechat_qr: wechat_qr.jpg # WeChat QR code
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 # wikidata_id: # your wikidata id
 # wikipedia_id: # your wikipedia id (Case sensitive)
