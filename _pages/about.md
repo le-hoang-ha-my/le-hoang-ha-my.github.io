@@ -20,3 +20,5 @@ social: true # includes social icons at the bottom of the page
 ---
 
 Hello. My name is My Le. You ruined my sleep schedule. Prepare to be cited.
+
+I am an B.S./M.S. student at [Case Western Reserve University](https://case.edu/), advised by Prof. [Soumya Ray](https://scholar.google.com/citations?user=T3Wxu_AAAAAJ&hl=en), and formerly, Prof. [Zonghe Chua](https://zonghe-chua.github.io/).
