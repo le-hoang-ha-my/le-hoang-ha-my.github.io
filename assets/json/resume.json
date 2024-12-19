@@ -45,6 +45,13 @@
       "position": "Research Assistant",
       "startDate": "2023-01-",
       "endDate": "2025-05-"
+    },
+    {
+      "name": "Case Western Reserve University",
+      "position": "Teaching Assistant",
+      "startDate": "2024-08-",
+      "endDate": "2024-12-",
+      "highlights": ["CSDS 440. Machine Learning"]
     }
   ],
   "languages": [
