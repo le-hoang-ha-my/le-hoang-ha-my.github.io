@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Lê Hoàng Hà My ('mi')
+subtitle: Lê Hoàng Hà My (<em>pronounced:&nbsp;'mi'</em>)
 
 profile:
   align: right
