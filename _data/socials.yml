@@ -48,4 +48,4 @@ wechat_qr: wechat_qr.png # WeChat QR code
 tinder: # can be any name here other than the ones already defined above
   logo: ../assets/img/tinder_icon.png # can be png, svg, jpg
   title: Tinder
-  url: ../_pages/tinder.md
+  url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
