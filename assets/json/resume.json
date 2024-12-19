@@ -24,15 +24,6 @@
       "endDate": "2025-05-18"
     }
   ],
-  "publications": [
-    {
-      "name": "Vision-Based Force Estimation for Minimally Invasive Telesurgery Through Contact Detection and Local Stiffness Models",
-      "publisher": "Journal of Medical Robotics Research",
-      "releaseDate": "2024-07-24",
-      "url": "https://www.worldscientific.com/doi/10.1142/S2424905X24400087",
-      "summary": "In minimally invasive telesurgery, obtaining accurate force information is difficult due to the complexities of in-vivo end effector force sensing. This constrains development and implementation of haptic feedback and force-based automated performance metrics, respectively. Vision-based force sensing approaches using deep learning are a promising alternative to intrinsic end effector force sensing. However, they have limited ability to generalize to novel scenarios, and require learning on high-quality force sensor training data that can be difficult to obtain. To address these challenges, this paper presents a novel vision-based contact-conditional approach for force estimation in telesurgical environments. Our method leverages supervised learning with human labels and end effector position data to train deep neural networks. Predictions from these trained models are optionally combined with robot joint torque information to estimate forces indirectly from visual data. We benchmark our method against ground truth force sensor data and demonstrate generality by fine-tuning to novel surgical scenarios in a data-efficient manner. Our methods demonstrated greater than 90% accuracy on contact detection and less than 10% force prediction error. These results suggest potential usefulness of contact-conditional force estimation for sensory substitution haptic feedback and tissue handling skill evaluation in clinical settings."
-    }
-  ],
   "experience": [
     {
       "name": "ERIE Lab, Case Western Reserve University",
