@@ -9,14 +9,14 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   # more_info: >
-  #   <p>Dreamer, doer, napper (not necessarily in that order).</p>
+    <p>Dreamer, doer, napper (not necessarily in that order).</p>
   #   <p>Professionally pretending to know what I'm doing.</p>
   #   <p>Smiling because screaming isn’t socially acceptable.</p>
   #   <p>This is the face of someone who peaked in kindergarten.</p>
   #   <p>Smiling through the imposter syndrome like a champ.</p>
   #   <p>When in doubt, make it sound like a research question.</p>
   #   <p>Doctorate in progress. Sanity in regress.</p>
-    <p>Call me a researcher. My parents call me unemployed.</p>
+    # <p>Call me a researcher. My parents call me unemployed.</p>
   #   <p>This smile is peer-reviewed and statistically significant.</p>
   #   <p>Yes, I’m still a student. No, I don’t know when I’ll finish.</p>
 
