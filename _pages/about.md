@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  # more_info: >
+  more_info: >
     <p>Dreamer, doer, napper (not necessarily in that order).</p>
   #   <p>Professionally pretending to know what I'm doing.</p>
   #   <p>Smiling because screaming isn’t socially acceptable.</p>
