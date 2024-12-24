@@ -13,17 +13,14 @@ profile:
   #   <p>Professionally pretending to know what I'm doing.</p>
   #   <p>Smiling because screaming isn’t socially acceptable.</p>
   #   <p>This is the face of someone who peaked in kindergarten.</p>
-  #   <p>Smiling through the imposter syndrome like a champ.</p>
   #   <p>When in doubt, make it sound like a research question.</p>
   #   <p>Doctorate in progress. Sanity in regress.</p>
-    # <p>Call me a researcher. My parents call me unemployed.</p>
-  #   <p>This smile is peer-reviewed and statistically significant.</p>
-  #   <p>Yes, I’m still a student. No, I don’t know when I’ll finish.</p>
-
-
-
-
-
+  #   <p>Call me a researcher. My parents call me unemployed.</p>
+  #   <p>When it comes to regression, I specialize in two: linear models and my sanity.</p>
+  #   <p>Grad school has me perfecting regression - my models improve, but my sanity doesn't.</p>
+  #   <p>Optimizing models, minimizing sanity.</p>
+  #   <p>Training robots to be smart - because one of us has to be.</p>
+  #   <p>If my code doesn’t crash, it’s probably me.</p>
 
 news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
