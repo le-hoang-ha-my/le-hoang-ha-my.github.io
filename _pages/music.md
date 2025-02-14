@@ -1,1 +1,1 @@
-I also enjoy all things music, whether it's performing, listening to, or creating music.
+I also enjoy all things music, whether it's performing, listening to, or creating music. I've been playing the piano for most of my life (although not always practising consistently *\*shame\**) and play guitar and violin casually. 
