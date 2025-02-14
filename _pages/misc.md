@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /misc/
 title: Miscellaneous
-description: A brief description of my main interests and hobbies outside of my research field. I would be happy to discuss with people on any of these!
+description: These are some of my favorite interests and hobbies outside of research - I'm always up for a chat about any of these!
 nav: true
 nav_order: 4
 
