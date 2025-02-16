@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /misc/
 title: misc
-description: These are some of my favorite ways to spend my (hopefully existent) free time - always up for a chat about any of them!
+description: So, who am I beyond my work? These are some of my favorite ways to spend my (hopefully existent) free time - always up for a chat about any of them!
 nav: true
 nav_order: 4
 
