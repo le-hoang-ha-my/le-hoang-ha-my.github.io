@@ -30,8 +30,10 @@ social: true # includes social icons at the bottom of the page
 
 Hello. My name is My Le. You ruined my sleep schedule. Prepare to be cited.
 
-I am a B.S./M.S. student at [Case Western Reserve University](https://case.edu/), advised by Prof. [Soumya Ray](https://case.edu/issacs/facultyfaculty-associates/soumya-ray), and formerly, Prof. [Zonghe Chua](https://zonghe-chua.github.io/).
+I am a Computer Science (Artificial Intelligence track) B.S./M.S. new grad at [Case Western Reserve University](https://case.edu/), advised by Prof. [Soumya Ray](https://case.edu/issacs/facultyfaculty-associates/soumya-ray), and Prof. [Zonghe Chua](https://zonghe-chua.github.io/).
 
-I am broadly interested in **robot learning and planning**, with the goal of developing robots that are **generalizable, scalable, and data-efficient** - capable of learning autonomously and assisting humans in everyday life. This interest stems from a deep fascination with understanding how human reasoning and decision-making work, alongside the challenge of recreating human-like intelligence and capabilities in artificial agents. In the past, I have conducted research in **robotics**, **machine learning**, and **neuroscience**; in addition, I am also drawn to **cognitive science** and **the philosophy of mind**, as I explore the connections between natural and artificial intelligence.
+I have experience in AI/ML and robotics research, and have worked on various projects spanning NLP/CV, full-stack development and AI infra. I am currently looking for new grad industry roles in these dipsciplines.
 
-Contact: **mhl88 AT case.edu**
+<!-- I am broadly interested in **robot learning and planning**, with the goal of developing robots that are **generalizable, scalable, and data-efficient** - capable of learning autonomously and assisting humans in everyday life. This interest stems from a deep fascination with understanding how human reasoning and decision-making work, alongside the challenge of recreating human-like intelligence and capabilities in artificial agents. In the past, I have conducted research in **robotics**, **machine learning**, and **neuroscience**; in addition, I am also drawn to **cognitive science** and **the philosophy of mind**, as I explore the connections between natural and artificial intelligence. -->
+
+Contact: **iamlhhm AT gmail.com**
