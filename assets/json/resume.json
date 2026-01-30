@@ -12,7 +12,7 @@
       "area": "Computer Science, Computer Engineering",
       "studyType": "Bachelor of Science",
       "startDate": "2021-08-23",
-      "endDate": "2025-05-18"
+      "endDate": "2026-01-16"
     },
     {
       "institution": "Case Western Reserve University",
@@ -21,7 +21,7 @@
       "area": "Computer Science",
       "studyType": "Master of Science",
       "startDate": "2021-08-23",
-      "endDate": "2025-05-18"
+      "endDate": "2026-01-16"
     }
   ],
   "experience": [
@@ -34,8 +34,8 @@
     {
       "name": "Ray's AI Lab, Case Western Reserve University",
       "position": "Research Assistant",
-      "startDate": "2023-01-",
-      "endDate": "2025-05-"
+      "startDate": "2024-03-",
+      "endDate": "2026-01-"
     },
     {
       "name": "Case Western Reserve University",
@@ -54,6 +54,11 @@
     {
       "language": "English",
       "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "Chinese",
+      "fluency": "Beginner",
       "icon": ""
     }
   ]
